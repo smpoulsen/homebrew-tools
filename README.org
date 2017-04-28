@@ -1,0 +1,4 @@
+* homebrew-tools
+Utilities installable via Homebrew
+
++ [[https://github.com/tpoulsen/generate-component][generate-component]] :: A React and React Native component generator. Makes ES6 class, functional, and ~React.createClass~ components.
