@@ -1,8 +1,8 @@
 class GenerateComponent < Formula
   desc "A component generator for React and React Native"
   homepage "https://github.com/tpoulsen/generate-component"
-  url "https://github.com/tpoulsen/generate-component/releases/download/v0.4.0.0/generate-component-0_4.tar.gz"
-  sha256 "d3554aa11f565167f2d1c08492b805036bf4c014f1f84b36fbb82135d8aa2e32"
+  url "https://github.com/tpoulsen/generate-component/releases/download/v0.4.1/generate-component-0_4_1.tar.gz"
+  sha256 "66352cbe3077da3424cd3d21b1584f59807e7d7b855eb64b7268e9e6204482d9"
 
   bottle :unneeded
 
